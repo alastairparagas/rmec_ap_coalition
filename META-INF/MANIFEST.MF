@@ -1,0 +1,192 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: rfG5AX19zgrb5Or/gj0c0DuAd6I=
+
+Name: res/xml/config.xml
+SHA1-Digest: eOunef2CT6R/T9drfKQ5xnThuiA=
+
+Name: assets/www/format/imgcache.js
+SHA1-Digest: kXPowtyMI/7ViX8V4QCRv+Dj1vo=
+
+Name: assets/www/format/home.css
+SHA1-Digest: akZJgfLSwFXE1waOII5tZ/E3Dms=
+
+Name: assets/www/format/flashcard.css
+SHA1-Digest: kRxfsUV40GqZXO1dU9cQw3zX2hw=
+
+Name: assets/www/format/drive.js
+SHA1-Digest: 7kfSQVht5aCmgl4uuGRilv6gOwE=
+
+Name: assets/www/format/webintent.js
+SHA1-Digest: ijqJVnwqG+6+oexBNXc2AWRNigo=
+
+Name: assets/www/images/weather/snow.gif
+SHA1-Digest: TaqG4aF44eI3V9QNulQadx7Ualo=
+
+Name: assets/www/images/weather/sunny.gif
+SHA1-Digest: Tf8qF2SUztv6Lx2+G9yYN1x3rJs=
+
+Name: assets/www/flashcard.html
+SHA1-Digest: +zflGl16CFETKOpivh6r/LjqwOM=
+
+Name: assets/www/images/weather/mostlysunny.gif
+SHA1-Digest: jDcuCt9K8zaQ6Bxf2nxetQwaFqc=
+
+Name: assets/www/images/weather/rain.gif
+SHA1-Digest: PqNi6bG5mx+uSPATHkhlrjJwBio=
+
+Name: assets/www/format/Sintony-Regular.eot
+SHA1-Digest: 62Xnc52nPi28i4MQvM4QKs3vrTc=
+
+Name: assets/www/format/news.js
+SHA1-Digest: rn2uIAHSbtWujBlQ8C0RrTe/bY0=
+
+Name: assets/www/format/CORDOVA_GCM_script.js
+SHA1-Digest: TrC70YUzM+3rcXcm2p7/nntlmp0=
+
+Name: assets/www/format/news.css
+SHA1-Digest: Z1GNOh5tsr700xJuGPzuIMatzZY=
+
+Name: assets/www/format/standard.css
+SHA1-Digest: aIvdtSpAKFrxyhAyGHbAYoj/1nU=
+
+Name: assets/www/format/Sintony-Bold.ttf
+SHA1-Digest: K7U63LMci+6XE8cTNWUD8G5ngiM=
+
+Name: assets/www/images/weather/hazy.gif
+SHA1-Digest: uci8A8yzXz1WqTtK73UaCkrigiM=
+
+Name: assets/www/images/weather/clear.gif
+SHA1-Digest: Tf8qF2SUztv6Lx2+G9yYN1x3rJs=
+
+Name: assets/www/format/Sintony-Bold.eot
+SHA1-Digest: /hX6EDVS/zLAWjd+hQz3Nlc+UTE=
+
+Name: assets/www/format/bariol-regular.eot
+SHA1-Digest: e6jhNe+oMpPkeZ7Fc7zgUtI0zhU=
+
+Name: assets/www/format/jquery.imagesloaded.min.js
+SHA1-Digest: 7NhJUjpHTp3UX2zKnVxt+V4T2tE=
+
+Name: assets/www/format/bariol-regular.ttf
+SHA1-Digest: 996RWIJaWhPIAzKkt15XxIr9YOE=
+
+Name: assets/www/format/awesome.ttf
+SHA1-Digest: /q6yBZ3xFSthsmdV97Kk824liU8=
+
+Name: assets/www/images/weather/partlycloudy.gif
+SHA1-Digest: jDcuCt9K8zaQ6Bxf2nxetQwaFqc=
+
+Name: assets/www/index.html
+SHA1-Digest: LNEzUdZg6GC3vYZDYoUuwg98OJc=
+
+Name: assets/www/news.html
+SHA1-Digest: HnAMHUAvzIZy/SdDV9Pke2MIF0U=
+
+Name: assets/www/images/weather/chancesleet.gif
+SHA1-Digest: 2hyfZvN0H1+PZi6/aycuBRC24Ng=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: N69TBCRDKv8j3FyAlWcLDUxzh30=
+
+Name: assets/www/drive.html
+SHA1-Digest: D626lhLQ6m+t40vYaoAZvaber/M=
+
+Name: assets/www/format/GCMPlugin.js
+SHA1-Digest: dpF1C/OZy4HJ3gx2dUWhj/yrrls=
+
+Name: assets/www/images/weather/mostlycloudy.gif
+SHA1-Digest: ZZHe/2jIgt5xIsF40dwoRvs8P2g=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: rfG5AX19zgrb5Or/gj0c0DuAd6I=
+
+Name: assets/www/format/awesome.eot
+SHA1-Digest: wTw5guXuJzUqQ9nDbP9xDECOkus=
+
+Name: resources.arsc
+SHA1-Digest: EWDouicOMfLv45M/aBCLtA5V1Tc=
+
+Name: assets/www/images/weather/chancetstorms.gif
+SHA1-Digest: 6BjgPu3/cVGF77aOeZE9e8oGNV4=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: rfG5AX19zgrb5Or/gj0c0DuAd6I=
+
+Name: assets/www/format/home.js
+SHA1-Digest: xaTrEDJ5jJil253WTtQC7pKKWS8=
+
+Name: assets/www/images/app_menu.png
+SHA1-Digest: neEvgtNnzFTN7psb8jhHzyd9C/M=
+
+Name: AndroidManifest.xml
+SHA1-Digest: U+xj0g9hCBT0vFxVGg2b3ZEknaw=
+
+Name: assets/www/format/card.js
+SHA1-Digest: dEEqQX5mk2GPOdNQ2uQBVPs216o=
+
+Name: assets/www/images/weather/cloudy.gif
+SHA1-Digest: SDwZf1INSHpWGO8i9Y3MKvnu/aw=
+
+Name: assets/www/images/weather/tstorms.gif
+SHA1-Digest: QJlUkpCOZNydJkqcUN1vhHQkMuw=
+
+Name: assets/www/images/weather/fog.gif
+SHA1-Digest: z5aynZdlsTJYUoErqegtXZezPq4=
+
+Name: assets/www/format/flashcard.js
+SHA1-Digest: PxJWIXQJiwqCf0BwzCMVOa5r5Is=
+
+Name: assets/www/card.html
+SHA1-Digest: wW6XSn8jIDmDd9hOaISP4L+OXd0=
+
+Name: assets/www/format/cordova-2.0.0.js
+SHA1-Digest: EFTj1MFfkBN7rcjiL1LsYwD9Iac=
+
+Name: assets/www/images/ajax-loader.gif
+SHA1-Digest: O77Fcwn8r9m1zxOr+qPEZn6yxvs=
+
+Name: assets/www/format/standard.js
+SHA1-Digest: y1EdN93+QTIw2HIhB/Vf7V2bXwg=
+
+Name: assets/www/images/weather/chancesnow.gif
+SHA1-Digest: oUu1eKQ/eAGHcv+b753f2G49O5w=
+
+Name: classes.dex
+SHA1-Digest: eVYDJofTp/+NOOIXf0+wzQa8beg=
+
+Name: assets/www/images/weather/flurries.gif
+SHA1-Digest: YRIokaHPIsih3Jbkao4HgV3aWgc=
+
+Name: assets/www/images/weather/chancerain.gif
+SHA1-Digest: tXnibk4xMT6/jO0YoHTXEhgZ1aY=
+
+Name: assets/www/images/weather/sleet.gif
+SHA1-Digest: YRIokaHPIsih3Jbkao4HgV3aWgc=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: rfG5AX19zgrb5Or/gj0c0DuAd6I=
+
+Name: assets/www/format/Sintony-Regular.ttf
+SHA1-Digest: FBuyxu0QraJb2jAnntVbzl9WV1k=
+
+Name: assets/www/images/weather/chanceflurries.gif
+SHA1-Digest: b22TI7jfrtSetTHbFsYE0gpSZdY=
+
+Name: assets/www/format/drive.css
+SHA1-Digest: 7j9cFKVJYeWLjorh28x796wyfJ4=
+
+Name: assets/www/format/stufftest.txt
+SHA1-Digest: MOU96ejK3pL30VQZRnw71DaBENo=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: A6EvbAuD9IcnhYYxlsC6QX+STmo=
+
+Name: assets/www/images/weather/partlysunny.gif
+SHA1-Digest: ZZHe/2jIgt5xIsF40dwoRvs8P2g=
+
+Name: assets/www/format/jquery.js
+SHA1-Digest: oc4L+lB/I8xBSpp2NL1zuZS7OzU=
+

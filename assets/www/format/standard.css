@@ -1,0 +1,137 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	background:#222;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+img, div, font, a{
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+@font-face{
+font-family: 'Sintony';
+src: url('../format/Sintony-Regular.eot');
+src: local('Sintony-Regular'),
+local('Sintony-Regular-webfont'),
+url('../format/Sintony-Regular.eot') format('embedded-opentype'),
+url('../format/Sintony-Regular.ttf') format('truetype');
+}
+
+@font-face{
+font-family: 'Sintony-Bold';
+src: url('../format/Sintony-Bold.eot');
+src: local('Sintony-Regular'),
+local('Sintony-Regular-webfont'),
+url('../format/Sintony-Bold.eot') format('embedded-opentype'),
+url('../format/Sintony-Bold.ttf') format('truetype');
+}
+
+@font-face{
+font-family: 'Bariol';
+src: url('../format/bariol-regular.eot');
+src: local('Bariol-Regular'),
+local('Bariol-Regular-webfont'),
+url('../format/bariol-regular.eot') format('embedded-opentype'),
+url('../format/bariol-regular.ttf') format('truetype');
+}
+
+@font-face{
+font-family: 'Awesome';
+src: url('../format/awesome.eot');
+src: local('Awesome'),
+local('Awesome-webfont'),
+url('../format/awesome.eot') format('embedded-opentype'),
+url('../format/awesome.ttf') format('truetype');
+}
+
+html, body{
+font-size:14px;
+width:100%;
+font-family:Bariol;
+background:#eee;
+line-height:25px;
+}
+
+div.row{
+width:100%;
+min-height:50px;
+max-height:100000px;
+display:block;
+}
+
+div.row .clearer{clear: left; line-height: 0; height: 0;}
+
+div.header{
+background: #111111;
+height:50px;
+width:100%;
+display:block;
+color:white;
+}
+
+div.header > h3{position:relative; top:8px; left:10px; float:left;}
+
+div.header > div.menu{
+float:right;
+position:relative;
+top:5px;
+right:5px;
+display:block;
+background:url('../images/app_menu.png');
+height:40px;
+width:40px;
+}
+
+ul.menu_bar{display:none; width:100%; overflow-x:hidden; background:#222; color:white;}
+ul.menu_bar > a{width:100%; height:25px; margin-top:20px; margin-bottom:20px; display:block;  text-decoration:none; color:white;}
+ul.menu_bar > a > li{margin-left:20px; font-size:18px;}
+
+h1 {font-size:33px; line-height:43px;}
+h2 {font-size:28px; line-height:38px;}
+h3 {font-size:23px; line-height:33px;}
+h4 {font-size:18px; line-height:28px;}
+h5 {font-size:13px; line-height:23px;}
+h6 {font-size:8px; line-height:18px;}
